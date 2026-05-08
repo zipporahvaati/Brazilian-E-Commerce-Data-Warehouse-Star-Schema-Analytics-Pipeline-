@@ -1,6 +1,4 @@
 # Brazilian-E-Commerce-Data-Warehouse-Star-Schema-Analytics-Pipeline-
-# 📊 Brazilian E-Commerce Data Warehouse (Star Schema Project)
-
 ## 🧠 Overview
 
 This project builds a complete analytical data warehouse using a Brazilian e-commerce dataset.  
